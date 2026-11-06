@@ -1,0 +1,15 @@
+{
+ "first_year": 1946,
+ "econ_peak_year": 1956,
+ "econ_peak": 385.5,
+ "last_econ_year_over_1m": 2020,
+ "last_mil_year_over_1m": 2020,
+ "econ_total_1946_1981": 6103.0,
+ "mil_total_1946_1986": 8903.3,
+ "econ_grant_1946_1981": 4656.9,
+ "econ_loan_1946_1981": 1446.1,
+ "first_econ_loan_year": 1958,
+ "loan_share_1946_60": 0.7,
+ "loan_share_1961_70": 24.1,
+ "loan_share_1971_81": 87.6
+}
